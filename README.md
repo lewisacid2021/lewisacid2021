@@ -2,7 +2,7 @@
 ![LeetCode Stats](https://leetcard.jacoblin.cool/keen-mendeleevuxf?theme=light&font=Koh%20Santepheap&ext=heatmap&site=cn)
 
 [![Lewisacid2021's GitHub stats](https://github-readme-stats.vercel.app/api?username=lewisacid2021)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lewisacid2021)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lewisacid2021&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **lewisacid2021/lewisacid2021** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
