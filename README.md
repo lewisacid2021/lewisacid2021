@@ -1,5 +1,5 @@
 ## Hi there 👋
-![LeetCode Stats](https://leetcard.jacoblin.cool/keen-mendeleevuxf?theme=light&font=Koh%20Santepheap&site=cn?ext=activity)
+![LeetCode Stats](https://leetcard.jacoblin.cool/keen-mendeleevuxf?theme=light&font=Koh%20Santepheap&ext=heatmap&site=cn)
 <!--
 **lewisacid2021/lewisacid2021** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
