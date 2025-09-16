@@ -1,6 +1,6 @@
 
-<h1>Hi 👋, I'm Luming Wang</h1>
-<h3>A postgraduate student majoring in Integrated Circuit Engineering at Beijing University of Posts and Telecommunications (BUPT). I completed my undergraduate studies in Computer Science and Technology at BUPT too.</h3>
+## Hi 👋, I'm Luming Wang
+A postgraduate student majoring in Integrated Circuit Engineering at BUPT where I completed my undergraduate studies in Computer Science and Technology.
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/keen-mendeleevuxf?theme=light&font=Koh%20Santepheap&ext=heatmap&site=cn)
 
