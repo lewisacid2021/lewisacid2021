@@ -4,7 +4,7 @@
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/keen-mendeleevuxf?theme=light&font=Koh%20Santepheap&ext=heatmap&site=cn)
 
-- 📝 I regularly write articles on [https://github.com/lewisacid2021/lewisacid2021.github.io](https://github.com/lewisacid2021/lewisacid2021.github.io)
+- 📝 I regularly write articles on [lewisacid2021.github.io](lewisacid2021.github.io)
 
 - 📫 How to reach me **wanglum@bupt.edu.cn**
 
